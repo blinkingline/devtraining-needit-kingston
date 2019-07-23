@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles>itil</application_roles>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Open NeedIt Requests">2a793842dbbaf3004f9a9ca4db96192c</data_item>
+        <description>View my open NeedIt records</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="list-alt">2bb7118adbfaf3004f9a9ca4db96196b</icon>
+        <name>My Open NeedIt Requests</name>
+        <order>10</order>
+        <parent>f2c8b8cedb7af3004f9a9ca4db9619bb</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 17:16:40</sys_created_on>
+        <sys_id>d28d7086dbbaf3004f9a9ca4db961911</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Open NeedIt Requests</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_d28d7086dbbaf3004f9a9ca4db961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 19:11:11</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>
